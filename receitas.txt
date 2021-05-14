@@ -1,0 +1,13 @@
+# Livro de receitas :man_cook:
+
+Olá ! Bem vindo ao meu livor de receitas :wave:
+
+- Strogonoff de frango
+  <<<<<<< HEAD
+
+- Pavê
+  ########
+
+- Bolo de cenoura
+
+>>>>>>> eldeelef35833a8c7bc0646aa13478ee26203e57
